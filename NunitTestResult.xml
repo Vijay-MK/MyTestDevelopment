@@ -1,0 +1,9 @@
+<test-run>
+    <test-suite>
+		<test-case fullname="TestNamespace.TestClass.TestMethod1" result="Passed" duration="0.123" />
+		<test-case fullname="TestNamespace.TestClass.TestMethod2" result="Failed" duration="0.456" />
+		<test-case fullname="TestNamespace.TestClass.TestMethod3" result="Passed" duration="0.456" />
+		<test-case fullname="TestNamespace.TestClass.TestMethod4" result="Failed" duration="0.456" />
+		<test-case fullname="TestNamespace.TestClass.TestMethod5" result="Passed" duration="0.456" />
+</test-suite>
+</test-run>
